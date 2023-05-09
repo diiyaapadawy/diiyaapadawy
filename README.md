@@ -1,5 +1,14 @@
-### Hi there 👋
 
+  <h1 align="center"> Hi I'm Diyaa 👋</h1>
+  <p align="center">
+      <a href="https://www.linkedin.com/in/diiyaa-padawy-367924270/"><img src="https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png" width="20%" height="20%">
+      </a>
+  </p>
+  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="25%" align="right" >
+  I'm a <strong>Front-End Developer</strong> Skilled at creating a unique customer experience 
+  that highlights brand messaging, maintians.
+
+- 💬 Ask me about **ReactJS and Frontend.
 <!--
 **diiyaapadawy/diiyaapadawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
